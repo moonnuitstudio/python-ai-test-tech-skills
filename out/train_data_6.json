@@ -1,0 +1,792 @@
+[
+  [
+    "about you: you are a software engineer who loves working with mobile technologies, like react native, and building responsive, efficient applications",
+    {
+      "entities": [
+        [
+          88,
+          93,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "required skills strong in ios and/or android",
+    {
+      "entities": [
+        [
+          37,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "computer skills must have experience of implementation, and support of:windows active directory domainswindows server and client systemsmust have an intermediate knowledge of microsoft office apps: outlook, word, excel, powerpoint, visiopreferred skills (but not mandatory):aws experiencevpc; ec2; security groupstransit gateways, storage gatewayss3 buckets synchronizationcloud formation/aws cdkaws systems managercloudwatchbackup/archiving solutions e",
+    {
+      "entities": [
+        [
+          175,
+          191,
+          "SKILL"
+        ],
+        [
+          198,
+          205,
+          "SKILL"
+        ],
+        [
+          207,
+          211,
+          "SKILL"
+        ],
+        [
+          213,
+          218,
+          "SKILL"
+        ],
+        [
+          220,
+          230,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "comtitle as an it systems administrator or desktop services level 2-3 transitioning into an it sys admin role:experience working with infrastructure and security teams:any experience with faa/dot programs:experience of implementation, and support of windows active directory domains, windows server and client systems:intermediate knowledge of microsoft office apps: outlook, word, excel, powerpoint, visio:aws (vpc; ec2; security groups, transit gateways, storage gateways s3 buckets synchronization, cloud formation/aws cdk, aws systems manager, cloudwatch)backup/archiving solutions e",
+    {
+      "entities": [
+        [
+          344,
+          360,
+          "SKILL"
+        ],
+        [
+          367,
+          374,
+          "SKILL"
+        ],
+        [
+          376,
+          380,
+          "SKILL"
+        ],
+        [
+          382,
+          387,
+          "SKILL"
+        ],
+        [
+          389,
+          399,
+          "SKILL"
+        ],
+        [
+          401,
+          406,
+          "SKILL"
+        ],
+        [
+          407,
+          410,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proven experience in managing networks and help deskknowledge in managing and configuring window server and desktop platformsexperience with the following systems:vmware maintenance and configurationvoip systems (preferred)vmware and nakivo backup & replication software (preferred)san / nas solution (preferred)sonicwall firewall (preferred)electronic health records (preferred)cisco switches and wireless access point (preferred)ubiquiti network devices (preferred)",
+    {
+      "entities": [
+        [
+          163,
+          169,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with light admin/support for linux (redhat) and windows oss",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "understanding of and ability to write basic linux shell and windows powershell scripts",
+    {
+      "entities": [
+        [
+          44,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "roles & responsibilities deliver services in a direct capacity on iam forgerock engagements engage in requirements gathering and use cases development create, validate, and justify security solutions and designs consistent with client objectives and best practices develop deployment and implementation methodology and standards consistent with vendor best practices install, integrate, configure, and deploy iam solutions and systems to facilitate user life-cycle management, identity and access governance, automated provisioning, single sign-on, federation, privileged account management transcribe and present technical information to business / executive levels develop and execute test cases and test plans for iam solutions respond to escalations",
+    {
+      "entities": [
+        [
+          66,
+          69,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "at least five years of reinsurance placement experience thorough understanding of reinsurance contract language and basic reinsurance pricing concepts extensive knowledge of the insurance market as it relates to reinsurance companies, product and service offerings, market pricing, coverage, and capacity trends, and the personnel in both the direct and broker market channels understanding of the process of buying reinsurance, including submission development, finalization of reinsurance terms and conditions, gathering authorizations, signing of lines, and contract management excellent interpersonal, written, and verbal communication skills experience with reinsurance finance and claims administration ability to develop and maintain good rapport fluency with catastrophe modeling output proficiency with microsoft office products, especially with excel",
+    {
+      "entities": [
+        [
+          812,
+          828,
+          "SKILL"
+        ],
+        [
+          855,
+          860,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum of 2 years of experience with python",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum of 3 years of cloud experience with aws, azure or google",
+    {
+      "entities": [
+        [
+          44,
+          47,
+          "SKILL"
+        ],
+        [
+          58,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "use and leverage available service knowledge of the global organization and share best practices between truck and excavator service",
+    {
+      "entities": [
+        [
+          115,
+          124,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "education and experience: a combination of education and experience equivalent to a bachelor’s degree in mechanical or electrical engineering and a minimum of 10 years functional expertise in customer service, leadership, international business and exposure to various cultures",
+    {
+      "entities": [
+        [
+          192,
+          208,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "js (required)experience with ipaas, salesforce apex, styled-components, heroku, heroku-connect (preferred)experience with ci/cd, source control such as git",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ],
+        [
+          72,
+          78,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "extensive experience working with typescript/javascript, graphql and rest apis",
+    {
+      "entities": [
+        [
+          34,
+          44,
+          "SKILL"
+        ],
+        [
+          45,
+          55,
+          "SKILL"
+        ],
+        [
+          57,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with react and modern javascript libraries",
+    {
+      "entities": [
+        [
+          33,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "understanding of web accessibility/wcagexperience using testing tools such as jest and react testing library, as well as end-to-end testing frameworksexperience with error monitoring and management, using tools like bugsnag and datadogexperience or desire to work collaboratively in cross-functional teams with design, product, data science, and research partners",
+    {
+      "entities": [
+        [
+          78,
+          82,
+          "SKILL"
+        ],
+        [
+          87,
+          92,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proven experience with bi tools such as sigma bi, power bi and tableau",
+    {
+      "entities": [
+        [
+          50,
+          58,
+          "SKILL"
+        ],
+        [
+          63,
+          70,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "deep understanding of data warehousing concepts, including experience with tools like snowflake, redshift, or bigquery and familiarity with dbt, airflow, or other similar data platforms",
+    {
+      "entities": [
+        [
+          86,
+          95,
+          "SKILL"
+        ],
+        [
+          110,
+          118,
+          "SKILL"
+        ],
+        [
+          97,
+          105,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• two years of hands on experience working in the hdd fabrication or semiconductor industries in a manufacturing or process engineering role• proficient in the use of microsoft office applications",
+    {
+      "entities": [
+        [
+          167,
+          183,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge, skills, and abilities:• strong knowledge and understanding of cmp principles, practices, and techniques• knowledge of magnetic recording head or hdd manufacturing• knowledge and ability to use microsoft office applications to create spreadsheets, word documents, and presentations• able to communicate effectively, both verbally and in writing, with all levels of contractors, consultants, employees, and management• able to work productively and collaboratively with all levels of employees and management• able to comply with all safety policies and procedures• able to use critical thinking to resolve issues, conduct root cause analysis, and make recommendations for process improvements• demonstrated analytical skills• demonstrated organizational and time management skills• demonstrated problem-solving and trouble shooting skills• flexible and able to prioritize",
+    {
+      "entities": [
+        [
+          204,
+          220,
+          "SKILL"
+        ],
+        [
+          258,
+          262,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient in packet captures, such as wireshark, tcpdump, and tcp flow tools, such as netflow, jflow, sflow",
+    {
+      "entities": [
+        [
+          39,
+          48,
+          "SKILL"
+        ],
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "qualifications:3+ years of experience in managing paid social campaigns on facebook/instagram, twitter, snapchat, pinterest, tiktok, and other digital platformsprevious brand side or digital agency experience executing successful ad campaigns for e-commerce brandsprevious digital agency experience with proven track record of ad campaign success with ecommerce brandsfamiliar with e-commerce key performance indicators (kpis) such as cpc, ctr, cpa/cac, roas, aovcomfortable managing advertising budgets directly within platform interfacesexperience in additional paid channels such as search, shopping, and display is advantageousinnate problem-solving abilities and a willingness to adopt an experimental mindsetfamiliar with google analytics 360 experience deploying international ad campaigns a plusfluency in additional languages a plus",
+    {
+      "entities": [
+        [
+          728,
+          734,
+          "SKILL"
+        ],
+        [
+          728,
+          744,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "▪must possess basic computer skills and proficiency with microsoft office applications (i",
+    {
+      "entities": [
+        [
+          57,
+          73,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum qualifications:bachelor’s degree in electrical or mechanical engineering and/or equivalent relevant experience; master’s degree preferredone to three years of hands’ on experience working in the thin film recording head or semiconductor industry in a mask design roleexperience using cad software such as dw-2000 or autocadproficient in the use of microsoft office applications",
+    {
+      "entities": [
+        [
+          356,
+          372,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge, skills, and abilities:knowledge of thin film recording head manufacturing or semiconductor processes, practices, and techniquesknowledge and ability to use cad or similar software to create complex masks and layouts for use in thin film recording headsknowledge and ability to use microsoft office applications to create spreadsheets, word documents, and presentationsability to manage and track wafer schedules, projects, and design changes efficiently to ensure just-in-time delivery of materials or wafersability to create various reports, presentations, and written sample analysisability to communicate effectively, both verbally and in writing, with all levels of contractors, consultants, employees, vendors, and managementability to work productively and collaboratively with all levels of employees and managementability to comply with all safety policies and proceduresdemonstrated organizational and time management skillsdemonstrated problem-solving and trouble shooting skillsflexible and able to prioritize",
+    {
+      "entities": [
+        [
+          292,
+          308,
+          "SKILL"
+        ],
+        [
+          346,
+          350,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "preferred qualifications:certified quality engineer (cqe) or certified quality auditor (cqa)iso 9001 auditing experience;experience using continuous improvement tool set;familiarity with python, javascript or similarprevious configuration experience using etq or compliance quest eqms software",
+    {
+      "entities": [
+        [
+          187,
+          193,
+          "SKILL"
+        ],
+        [
+          195,
+          205,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "effective verbal and written communication skills;working knowledge of microsoft office suite and sap business systems;knowledge of lean principals & improvements",
+    {
+      "entities": [
+        [
+          71,
+          87,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "thorough knowledge of ms-office suite (word, excel, powerpoint, access, sharepoint)",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ],
+        [
+          45,
+          50,
+          "SKILL"
+        ],
+        [
+          52,
+          62,
+          "SKILL"
+        ],
+        [
+          64,
+          70,
+          "SKILL"
+        ],
+        [
+          72,
+          82,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with ecad tools altium designer (or equivalent)",
+    {
+      "entities": [
+        [
+          28,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    ", git)knowledge of database design and sqlrelevant certifications and a degree in computer science or a related field",
+    {
+      "entities": [
+        [
+          82,
+          90,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "must be proficient in revit, autocad and 3d modeling software",
+    {
+      "entities": [
+        [
+          44,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient working in revit, 3d modeling programs (sketch up & revit preferred) and adobe creative suite",
+    {
+      "entities": [
+        [
+          51,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficiency with sql, python, java, and javascript",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "SKILL"
+        ],
+        [
+          30,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong knowledge of office 365 suite (teams, excel, word, powerpoint, outlook) proactive customer service skills with strong problem-solving skills and the ability to anticipate customer needs by recognizing areas of opportunity and quickly providing solutions",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "SKILL"
+        ],
+        [
+          45,
+          50,
+          "SKILL"
+        ],
+        [
+          52,
+          56,
+          "SKILL"
+        ],
+        [
+          70,
+          77,
+          "SKILL"
+        ],
+        [
+          58,
+          68,
+          "SKILL"
+        ],
+        [
+          89,
+          105,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "required skills and experiencestrong expertise in aws and administrating and scaling kubernetes native applications (cka, ckad, cks are nice to have)strong expertise in building and managing ci/cd pipelinesrelevant software engineering experience with at least one language (go, ruby, python, erlang or java)understanding of microservices, distributed systems and client-server architecturesstrong linux system administration and troubleshooting skills, including knowledge of how the various components work (kernel, cpu, memory, disk, network)experience with infrastructure as code tools like terraformknows how to make the most of an agile multi-team environmentbe resourceful, inventive, and passionate about technologyyou are eager to challenge the status quodemonstrated ability to prioritize tasks and promptly resolve problemsproactive, addresses potential issues before they occurtrack record of making things better and leading solutions that remove technical pain points and facilitate growthexcellent communication skills in english is essential",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ],
+        [
+          398,
+          403,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "manual dexterity and coordination are required over 70% of the work period while working in the plant areas as well as operating equipment such as computer keyboard, monitor, projector, calculator, printer, and standard office equipment",
+    {
+      "entities": [
+        [
+          147,
+          155,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "architect and implement microservices-based applications using cloud-native technologies such as kubernetes, docker, and serverless computing platforms",
+    {
+      "entities": [
+        [
+          109,
+          115,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge of a wide range of computer systems software, applications, hardware, networking, and communications",
+    {
+      "entities": [
+        [
+          29,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge of a wide range of computer systems software, applications, hardware, networking, and communications",
+    {
+      "entities": [
+        [
+          29,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "0 or greater is preferred;working knowledge of autocad or civil 3d, and microsoft office suite applications;excellent written and verbal communication skills;strong attention to detail with excellent analytical, multitasking, and judgment capabilities;ability to effectively work independently and in a team environment; andpossess reliable transportation for client meetings and job site visits and a valid driver’s license in good standing",
+    {
+      "entities": [
+        [
+          72,
+          88,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "the ideal candidate will possess a background in computer science, exceptional communication skills, and the ability to thrive in a professional setting",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "required skills & experiencebachelor's degree in information technology or computer science",
+    {
+      "entities": [
+        [
+          75,
+          83,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient in microsoft office applications (excel, outlook, and teams)",
+    {
+      "entities": [
+        [
+          14,
+          30,
+          "SKILL"
+        ],
+        [
+          45,
+          50,
+          "SKILL"
+        ],
+        [
+          52,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "basic knowledge of jira (for ticketing and reporting)",
+    {
+      "entities": [
+        [
+          19,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience working with java stack",
+    {
+      "entities": [
+        [
+          24,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge of programming languages and web based technologies",
+    {
+      "entities": [
+        [
+          13,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "you will ensure high levels of customer satisfaction by working with customer service, central planning, trafficking and freight forwarders",
+    {
+      "entities": [
+        [
+          69,
+          85,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "serve as distribution center expert in international shipping regulations, assess impact regarding products, and take action to ensure shipping compliance with these regulations",
+    {
+      "entities": [
+        [
+          82,
+          88,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient in ms word and excel",
+    {
+      "entities": [
+        [
+          17,
+          21,
+          "SKILL"
+        ],
+        [
+          26,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ]
+]

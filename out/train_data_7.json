@@ -1,0 +1,847 @@
+[
+  [
+    "experience working in oracle, sap or other supply chain software",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "the ideal candidate will be a strategic thinker with a deep understanding of marketing automation tools and customer data platforms (cdp)",
+    {
+      "entities": [
+        [
+          77,
+          97,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "solid understanding of change management, agile methodologies, and frameworks",
+    {
+      "entities": [
+        [
+          42,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "technical experience with adobe experience platform (aep), adobe real-time cdp for b2b, adobe workfront, adobe target, sap erp data, microsoft azure, and system integrations (crm, erp, wcm/dam)",
+    {
+      "entities": [
+        [
+          119,
+          126,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "well experienced in developing restful apis, microservices in spring boot framework",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "SKILL"
+        ],
+        [
+          62,
+          73,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "expert in improving integration workflow, project testing and deployments with jenkins",
+    {
+      "entities": [
+        [
+          79,
+          86,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "this role will involve working with linux systems and ensuring smooth and efficient operations across the company's technology stack",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    ", api gateway (mule, apigee), security features,understanding of security principals like third party systems using oauth2, sso, openid connect, jwtunderstanding of various payment rails, terminologies, and banking domain knowledgeexperience with various cloud technologies - aws and k8s with various aws servicesexpertise in leading and participating in api based systems including designs, security controls, security policies and development of rest apisexperience with delivery of open api architecture and engineering projects, specifically with payment and money movementexperience with load balancers, firewalls, tcp, tls, ssh, automated testing of apis, jenkins, ci/cd etc concepts a plusexperience with microservices, service-oriented architecture, restful techniquesexperience with redesigning governance architecture processesprevious experience with proxy implementation on gcp apigee is highly preferredexperience with architecture solutions transforming internal capabilities to external industry standards",
+    {
+      "entities": [
+        [
+          124,
+          127,
+          "SKILL"
+        ],
+        [
+          276,
+          279,
+          "SKILL"
+        ],
+        [
+          662,
+          669,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "(open apis, fdx)experience with documenting the api landscape, identifying gaps between current systems and desired end-state; creating a roadmap to deliver end-state solutionsbanking or financial services experiencein an agile environment: knowledge of agile development & release practices",
+    {
+      "entities": [
+        [
+          222,
+          227,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "your solutions will impact our customers directly! primary responsibilities include developing monitoring solutions, troubleshooting/debugging and implementing the fix for internally developed code (perl, c/c++, java), performing sql queries, improving our systems that gather metrics on our features, updating, tracking and resolving technical challenges",
+    {
+      "entities": [
+        [
+          117,
+          132,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• proficient in the use of ms excel, word, powerpoint, and related software• you have good analytical and problem-solving skills with high attention to detail",
+    {
+      "entities": [
+        [
+          30,
+          35,
+          "SKILL"
+        ],
+        [
+          37,
+          41,
+          "SKILL"
+        ],
+        [
+          43,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "desirable - domain experience in oil & gas industry (choke control application) knowledge of basic statistical analysis and agile and waterfall project management",
+    {
+      "entities": [
+        [
+          124,
+          129,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "expert knowledge of adobe creative cloud (illustrator, indesign, photoshop, acrobat) and of office 365 suite (excel, word, powerpoint, outlook, teams, and sharepoint)",
+    {
+      "entities": [
+        [
+          20,
+          40,
+          "SKILL"
+        ],
+        [
+          42,
+          53,
+          "SKILL"
+        ],
+        [
+          55,
+          63,
+          "SKILL"
+        ],
+        [
+          65,
+          74,
+          "SKILL"
+        ],
+        [
+          92,
+          102,
+          "SKILL"
+        ],
+        [
+          110,
+          115,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong knowledge of office 365 suite (teams, excel, word, powerpoint, outlook) outstanding proactive customer service with strong problem-solving skills and the ability to anticipate customer needs by recognizing areas of opportunity and quickly providing solutions",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "SKILL"
+        ],
+        [
+          45,
+          50,
+          "SKILL"
+        ],
+        [
+          52,
+          56,
+          "SKILL"
+        ],
+        [
+          70,
+          77,
+          "SKILL"
+        ],
+        [
+          58,
+          68,
+          "SKILL"
+        ],
+        [
+          101,
+          117,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    ") is preferredexperience working in a wafer fab manufacturing environmentexperience with statistical process control (spc)proficient in the use of microsoft office applicationsknowledge, skills, and abilities:knowledge of semiconductor or hdd industry principles, practices, and techniquesknowledge of wafer fabrication processing techniques, including process development and integration practicesknowledge of plasma etch (rie, ibe, ashing, etc",
+    {
+      "entities": [
+        [
+          147,
+          163,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    ") principles, practices, and techniquesknowledge of tem, sem, and fib and ability to analyze data from these sources to determine root cause of failureknowledge and ability to use excel, jmp, or other software applications such as vba to analyze data, create reports, present findings, and recommend appropriate actionknowledge and ability to use microsoft office applications to create reports and presentationsable to communicate effectively, both verbally and in writing, with all levels of contractors, consultants, employees, and managementable to work productively and collaboratively with all levels of employees and management able to comply with all safety policies and procedures demonstrated organizational and time management skillsdemonstrated problem-solving and trouble shooting skillsflexible and able to prioritize",
+    {
+      "entities": [
+        [
+          57,
+          60,
+          "SKILL"
+        ],
+        [
+          180,
+          185,
+          "SKILL"
+        ],
+        [
+          347,
+          363,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "job skills & qualifications:proven experience as a php laravel developer strong understanding of php, laravel framework and mvc design patternsproficient in front-end technologies such as html5, css3, javascript ability to work both independently and collaboratively in a fast-paced environmentexperience with relational databases such as mysqlexperience building and consuming restful apis and web servicesexcellent problem solving skills and attention to detailstrong communication skills",
+    {
+      "entities": [
+        [
+          51,
+          54,
+          "SKILL"
+        ],
+        [
+          55,
+          62,
+          "SKILL"
+        ],
+        [
+          157,
+          166,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "job skills & qualifications:proven experience as a php laravel developer strong understanding of php, laravel framework and mvc design patternsproficient in front-end technologies such as html5, css3, javascript ability to work both independently and collaboratively in a fast-paced environmentexperience with relational databases such as mysqlexperience building and consuming restful apis and web servicesexcellent problem-solving skills and attention to detailstrong communication skillspreferred skills:experience with version control systems such as gitunderstanding of agile development methodologiesexperience with cloud platforms such as aws and azure essential duties:develop, implement and maintain php laravel web applicationsupdate legacy laravel framework to current releaseupdate code from php 7",
+    {
+      "entities": [
+        [
+          51,
+          54,
+          "SKILL"
+        ],
+        [
+          55,
+          62,
+          "SKILL"
+        ],
+        [
+          157,
+          166,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "skills in javascript (es6), html/css, freemaker template, and css preprocessor are advantageous (less or sass)",
+    {
+      "entities": [
+        [
+          10,
+          20,
+          "SKILL"
+        ],
+        [
+          28,
+          32,
+          "SKILL"
+        ],
+        [
+          33,
+          36,
+          "SKILL"
+        ],
+        [
+          105,
+          109,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with scala/python and working with hadoop and related tools is advantageous",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with containerization technologies such as docker and container orchestration platforms like kubernetes",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong understanding of cloud computing principles and experience with cloud platforms such as azure, aws, or google cloud platform",
+    {
+      "entities": [
+        [
+          110,
+          122,
+          "SKILL"
+        ],
+        [
+          102,
+          105,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with infrastructure-as-code tools such as arm, bicep, terraform, ansible, or puppet",
+    {
+      "entities": [
+        [
+          66,
+          75,
+          "SKILL"
+        ],
+        [
+          89,
+          95,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "net and c#minimum 5 years experience with cloud computing (either azure, aws, or google cloud)",
+    {
+      "entities": [
+        [
+          81,
+          93,
+          "SKILL"
+        ],
+        [
+          73,
+          76,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum 3 years experience with familiarity with devops tools (code configuration, arm, bicep or terraform)",
+    {
+      "entities": [
+        [
+          97,
+          106,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "-knowledge of microsoft outlook and excel",
+    {
+      "entities": [
+        [
+          14,
+          31,
+          "SKILL"
+        ],
+        [
+          24,
+          31,
+          "SKILL"
+        ],
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "position: accounts receivable specialistlocation: concord areaduration: temp to hiresalary: $70,000 - $75,000 per yearmust-haves:experience in the construction industryproficiency in collections proceduresfamiliarity with sage softwareexcellent attention to detailstrong communication skillsadvanced microsoft excel skills, including pivot tables and v lookupswe are seeking an experienced accounts receivable specialist to join our team",
+    {
+      "entities": [
+        [
+          310,
+          315,
+          "SKILL"
+        ],
+        [
+          300,
+          315,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "the ideal candidate will have a background in construction, possess strong attention to detail, and excel in communication and organizational skills",
+    {
+      "entities": [
+        [
+          100,
+          105,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with mobile software development using kotlin",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience using distributed source code version control systems (git/github)experience with the agile methodology scrumexperience with development of mobile network clients using http protocol, rest apis and google cloud messagingexperience with google play apis : maps, location, and cloud messagingexperience with software debugging techniques (debuggers, loggers, crash report tools)demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plansexperience with embedded real time systems with limited resources (memory and processing)experience in unit and integration testing android code",
+    {
+      "entities": [
+        [
+          209,
+          215,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "ensure effective data management through use of various excel spreadsheets and documents to provide necessary data for the assigned monthly operations reports to ensure reports, bulletins, and alerts are completed and delivered in a timely and accurate manner",
+    {
+      "entities": [
+        [
+          56,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient in the microsoft office 2016 programs: word, excel, power point, and outlook",
+    {
+      "entities": [
+        [
+          18,
+          34,
+          "SKILL"
+        ],
+        [
+          50,
+          54,
+          "SKILL"
+        ],
+        [
+          56,
+          61,
+          "SKILL"
+        ],
+        [
+          63,
+          74,
+          "SKILL"
+        ],
+        [
+          80,
+          87,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "the ideal candidate has demonstrated experience in a fast-paced environment, preferably in government contracting with knowledge of the deltek costpoint accounting system",
+    {
+      "entities": [
+        [
+          136,
+          142,
+          "SKILL"
+        ],
+        [
+          136,
+          152,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with accounting software (preferably deltek costpoint 8",
+    {
+      "entities": [
+        [
+          16,
+          35,
+          "SKILL"
+        ],
+        [
+          48,
+          54,
+          "SKILL"
+        ],
+        [
+          48,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with voip systems and traffic flow",
+    {
+      "entities": [
+        [
+          16,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "be part of a development team using modern development languages, relational and nosql databasesmust have experience with backend development with java and nosql",
+    {
+      "entities": [
+        [
+          147,
+          151,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong experience with front end development with react is required",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with html5, css, and xmlmust have experience with ui frameworks with strong preference for felt ui",
+    {
+      "entities": [
+        [
+          23,
+          26,
+          "SKILL"
+        ],
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "in this role you will work primarily with java and spring boot, as well as other technologies such as rabbitmq and redis",
+    {
+      "entities": [
+        [
+          115,
+          120,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "requirements:6+ years of development experience, ideally focused on the back endat least 3 years of professional java experiencespring and spring boot experienceexperience with rabbitmq preferredexperience with redis preferredbachelor's degree in computer science or related field",
+    {
+      "entities": [
+        [
+          211,
+          216,
+          "SKILL"
+        ],
+        [
+          247,
+          255,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong experience with architectural reviews, threat modeling, penetration testing, and other offensive and defensive security techniques",
+    {
+      "entities": [
+        [
+          63,
+          82,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with building out secure continuous integration pipelines, in particular with github actionsexcellent written, and verbal communication skills",
+    {
+      "entities": [
+        [
+          89,
+          95,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with microsoft excel and outlook",
+    {
+      "entities": [
+        [
+          17,
+          32,
+          "SKILL"
+        ],
+        [
+          27,
+          32,
+          "SKILL"
+        ],
+        [
+          37,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with the basic underlying physics in common sensorsfamiliarity with the linux command line, bash, etc",
+    {
+      "entities": [
+        [
+          84,
+          89,
+          "SKILL"
+        ],
+        [
+          104,
+          108,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with c and c++high level of proficiency with google suite (docs, slides, sheets, gmail, calendar)experience working within a digital hq chat platform, e",
+    {
+      "entities": [
+        [
+          23,
+          26,
+          "SKILL"
+        ],
+        [
+          40,
+          51,
+          "SKILL"
+        ],
+        [
+          57,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "ideal candidates will have experience with canva, social media, shopify, semrush, ga4, and amazon",
+    {
+      "entities": [
+        [
+          43,
+          48,
+          "SKILL"
+        ],
+        [
+          73,
+          80,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "what you bring to the role: bachelor’s in graphic design, visual communication, or similar6+ years of experience as a graphic designerportfolio of work with a wide range of relevant creative projectsexcellent written and verbal communication skillsexpert knowledge and proficiency in adobe creative suite (photoshop, illustrator, and indesign)advanced experience working in microsoft office programs (excel, powerpoint, word, etc",
+    {
+      "entities": [
+        [
+          374,
+          390,
+          "SKILL"
+        ],
+        [
+          401,
+          406,
+          "SKILL"
+        ],
+        [
+          408,
+          418,
+          "SKILL"
+        ],
+        [
+          420,
+          424,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    ")knowledge using figma for prototyping and layout/ui designpreferred basic experience in cinema 4d, blender, or similar 3d design programsexperience with motion graphics and animation is a plusknowledge of html/css coding recommended, but not requiredexpert experience and knowledge in concept development (brainstorming, conceptualizing ideas, sketches)ability to execute brand strategy and art direction into print and digital assetsexperience in collaborating with other designers; ability to work cross-functionally with other teams/departmentsability to follow and understand sops/workflows; possess strong organizational and time management skills(attention to detail)expert understanding of typography and layout designadvanced photo editing skills (photo retouching/photo manipulation)skilled at creating vector images, line drawings, and illustrations with a digital pen/stylusproficient knowledge of color theoryability to set and export files for print and digitalcomfortable working fast in a dynamic team environmenttakes ownership of projects and drives tasks through to completion on schedule",
+    {
+      "entities": [
+        [
+          206,
+          210,
+          "SKILL"
+        ],
+        [
+          211,
+          214,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "working knowledge and experience with linux networkingexperience with high-performance dataplanes vpp, ebpf, dpdk, or vpp",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "specifically, nvidia bluefield, pensando/amd, intel, marvell dpus/ipusworking knowledge of data-plane debug, troubleshooting and testing tools",
+    {
+      "entities": [
+        [
+          109,
+          124,
+          "SKILL"
+        ]
+      ]
+    }
+  ]
+]

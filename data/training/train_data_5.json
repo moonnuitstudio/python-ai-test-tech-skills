@@ -1,0 +1,752 @@
+[
+  [
+    ")• experienced with deploying and managing infrastructures based on docker, kubernetes, or openshift• experience working with kafka, aurora, aws glue, redshift is a plus• understanding of data engineering, real time streaming and/or eventing, and json parsing• experience with automating application deployment, continuous delivery, and continuous integration (jenkins, ansible, aws code pipeline, gitlab ci/cd etc",
+    {
+      "entities": [
+        [
+          141,
+          144,
+          "SKILL"
+        ],
+        [
+          151,
+          159,
+          "SKILL"
+        ],
+        [
+          361,
+          368,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• experience with aws compute (ec2) and serverless compute (lambda, stepfunctions)• experience deploying infrastructure as code – aws cdk is a plus• experience working with iam services in aws – aws iam, roles, policies, security groups,• experience with cloud monitoring tools like aws cloudwatch, grafana, prometheus",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "SKILL"
+        ],
+        [
+          173,
+          176,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficiency with computers and software including microsoft office, and internal business platformscomplete additional work and tasks as requested by the leadership team",
+    {
+      "entities": [
+        [
+          50,
+          66,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "net 3+ years of experience with javascript/typescript, html, css experience with responsive web design strong fundamentals in data structures, algorithms, object-oriented programming, and software design skills acts as an expert technical resource to the development teams for ui/ux design proficiency in ci/cd pipeline tools like jenkins or azure devops previous experience with test management, configuration management and risk management experience with code version control including branch versioning experience working in medical device industry or healthcare industry and/or developing saas products demonstrated ability to deliver results while working on multiple projects simultaneously, balancing resources, timing and quality of outcomes",
+    {
+      "entities": [
+        [
+          32,
+          42,
+          "SKILL"
+        ],
+        [
+          43,
+          53,
+          "SKILL"
+        ],
+        [
+          55,
+          59,
+          "SKILL"
+        ],
+        [
+          61,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "preferred: ms in computer engineering, computer science, electrical engineering, or related discipline experience with the development tools: ms visual studio, jira, git fluency with clinical radiology terminology medical device interoperability experience with hl7, dicom and pacs, his/ris experience with react and/or angular experience with wpf ui framework experience implementing test automation experience with design/prototyping tools such as figma experience with relationship database management systems (rdbms) such as sql server knowledge of qsr, iso/en and quality system standards familiarity with dicom, hl7, ihe, and/or fhir enterprise software architecture experience (b2b, scalable, preferably cloud driven but also on-prem experience), preferably in healthcare it experience with enterprise level features like scalability, uptime, backups and disaster recovery, multi-tenancy, remote and self-diagnostics, etc",
+    {
+      "entities": [
+        [
+          160,
+          164,
+          "SKILL"
+        ],
+        [
+          307,
+          312,
+          "SKILL"
+        ],
+        [
+          320,
+          327,
+          "SKILL"
+        ],
+        [
+          450,
+          455,
+          "SKILL"
+        ],
+        [
+          485,
+          512,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "provide high quality service through efficient use of all oracle/crm functionalities related to order fulfillment and relative to customer activity",
+    {
+      "entities": [
+        [
+          58,
+          64,
+          "SKILL"
+        ],
+        [
+          65,
+          68,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum qualifications:bachelor’s degree in chemistry, chemical or electrical engineering, materials science, or physics and/or equivalent relevant experience; master’s degree preferredthree years of hands on experience working in magnetic thin film fabrication, magnetic recording head, hard disk drive, or semiconductor industry in a manufacturing or process engineering rolestrong experience in spc, design of experiments (doe), and photoresist modelingproficient in the use of microsoft office applications",
+    {
+      "entities": [
+        [
+          481,
+          497,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong knowledge of semiconductor device measurement tools, practices, and techniquesknowledge and experience using jmp or excel and the ability to create macro formulasknowledge and ability to use microsoft office applications to create spreadsheets, word documents, and presentationsable to design experiments, analyze results, and recommend corrective actionable to communicate effectively, both verbally and in writing, with all levels of contractors, consultants, employees, and managementable to work productively and collaboratively with all levels of employees and managementable to comply with all safety policies and proceduresdemonstrated organizational and time management skillsdemonstrated problem-solving and trouble shooting skillsflexible and able to prioritize",
+    {
+      "entities": [
+        [
+          198,
+          214,
+          "SKILL"
+        ],
+        [
+          252,
+          256,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum 5 years experience with cloud computing (either azure, aws, or google cloud)",
+    {
+      "entities": [
+        [
+          71,
+          83,
+          "SKILL"
+        ],
+        [
+          63,
+          66,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum 3 years experience with familiarity with devops tools (code configuration, arm, bicep or terraform)",
+    {
+      "entities": [
+        [
+          97,
+          106,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• experience with containerization technologies such as docker and container orchestration platforms like kubernetes",
+    {
+      "entities": [
+        [
+          56,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• strong understanding of cloud computing principles and experience with cloud platforms such as azure, aws, or google cloud platform",
+    {
+      "entities": [
+        [
+          112,
+          124,
+          "SKILL"
+        ],
+        [
+          104,
+          107,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "• familiarity with infrastructure-as-code tools such as arm, bicep, terraform, ansible, or puppet",
+    {
+      "entities": [
+        [
+          68,
+          77,
+          "SKILL"
+        ],
+        [
+          91,
+          97,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "computer skillsproficiency in the use of a computer and applicable software necessary to perform work assignments e",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "net and c#minimum 5 years experience with cloud computing (either azure, aws, or google cloud)",
+    {
+      "entities": [
+        [
+          81,
+          93,
+          "SKILL"
+        ],
+        [
+          73,
+          76,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum 3 years experience with familiarity with devops tools (code configuration, arm, bicep or terraform)",
+    {
+      "entities": [
+        [
+          97,
+          106,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with epic systems is beneficial",
+    {
+      "entities": [
+        [
+          17,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with aws s3, snowflake, terraform, and dbt is advantageous",
+    {
+      "entities": [
+        [
+          16,
+          19,
+          "SKILL"
+        ],
+        [
+          20,
+          22,
+          "SKILL"
+        ],
+        [
+          24,
+          33,
+          "SKILL"
+        ],
+        [
+          35,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "job requirements· data center, high-tech, or rapid growth industry experience is strongly preferred but not required· prior experience with an itil based service management program· prior experience utilizing servicenow or similar tools to manage and document change requests, approvals, and implementation details",
+    {
+      "entities": [
+        [
+          143,
+          147,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "required skills:strong proficiency in javascript, html, and css extensive knowledge of reactjs, jsx, data structures, and algorithms american express one-app framework experience preferred",
+    {
+      "entities": [
+        [
+          142,
+          149,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with jest / react testing frameworks",
+    {
+      "entities": [
+        [
+          16,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proven experience as a smartsheet specialist or similar role, with a strong understanding of smartsheet functionalities and capabilities",
+    {
+      "entities": [
+        [
+          23,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "expertise in developing complex reports, dashboards, and workflows within smartsheet to support compliance and operational objectives",
+    {
+      "entities": [
+        [
+          74,
+          84,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge of oracle real application clusters (rac), asm, and active data guard",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficiency with computers and software including microsoft office, and internal business platforms  complete additional work and tasks as requested by the leadership team",
+    {
+      "entities": [
+        [
+          50,
+          66,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with salesforce is a requirement for this role",
+    {
+      "entities": [
+        [
+          16,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "must have working experience with the salesforce platform and snowflake",
+    {
+      "entities": [
+        [
+          62,
+          71,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "preferred qualifications:master's degree with 7 years of experiencespecific experience: experience with tableau, microsoft sql reporting services and boomi are preferred",
+    {
+      "entities": [
+        [
+          104,
+          111,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "demonstrated experience with sql (postgresql, oracle, teradata)",
+    {
+      "entities": [
+        [
+          34,
+          44,
+          "SKILL"
+        ],
+        [
+          46,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience working with statistical language like python",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with word, excel, and powerpoint presentation creation",
+    {
+      "entities": [
+        [
+          16,
+          20,
+          "SKILL"
+        ],
+        [
+          22,
+          27,
+          "SKILL"
+        ],
+        [
+          33,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "knowledge, skills and duties: · managing upgrades, patches and certificates · planning activities, communicating status and preparing reports · performs system-level design, configuration, integration and implementation of perimeter security products to include firewalls, email security appliances, proxy devices, switches, and routers · analyze firewall policies and configurations · implement new platforms, code versions, and features to meet lifecycle management and business requirements · responsible for compliance with internal and external policies · identify configuration or policy flaws and gaps that increase risk or violate information security requirements  requirements: · overall 9+ years exp· minimum of four (4) years' experience with firewall technologies · experience in troubleshooting a broad range of network security technologies",
+    {
+      "entities": [
+        [
+          793,
+          808,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "· experience with devsecops or other agile methodology",
+    {
+      "entities": [
+        [
+          37,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "any experience with all of the following:working with suppliers to resolve technical issues;microsoft office tools;autocad and solidworks;welding techniques and standards;organizational and time management skills;methodical, effective troubleshooting/problem-solving skills;excellent communication skills;",
+    {
+      "entities": [
+        [
+          92,
+          108,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with content management systems (cms) and marketing automation platforms is a plus",
+    {
+      "entities": [
+        [
+          54,
+          74,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "technology: proficient in using multiple software programs and web-based applications such as e-mail, microsoft office suite products, internet browsers, etc",
+    {
+      "entities": [
+        [
+          102,
+          118,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "proficient in packet captures, such as wireshark, tcpdump, and tcp flow tools, such as netflow, jflow, sflow",
+    {
+      "entities": [
+        [
+          39,
+          48,
+          "SKILL"
+        ],
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "requirements:• university degree/college diploma or equivalent work experience• 3 to 5 years of related experience• experience with complex documents• proficient in microsoft excel",
+    {
+      "entities": [
+        [
+          175,
+          180,
+          "SKILL"
+        ],
+        [
+          165,
+          180,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "exposure to cloud (aws/azure), cicd, devops, kubernetes, scripting, sql/nosql databases (cassandra), agile methodologystrong understanding of design techniques and software principles",
+    {
+      "entities": [
+        [
+          19,
+          22,
+          "SKILL"
+        ],
+        [
+          89,
+          98,
+          "SKILL"
+        ],
+        [
+          101,
+          106,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with containerization technologies such as docker and container orchestration platforms like kubernetes",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "strong understanding of cloud computing principles and experience with cloud platforms such as azure, aws, or google cloud platform",
+    {
+      "entities": [
+        [
+          110,
+          122,
+          "SKILL"
+        ],
+        [
+          102,
+          105,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with infrastructure-as-code tools such as arm, bicep, terraform, ansible, or puppet",
+    {
+      "entities": [
+        [
+          66,
+          75,
+          "SKILL"
+        ],
+        [
+          89,
+          95,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "net and c#minimum 5 years' experience with cloud computing (either azure, aws, or google cloud)",
+    {
+      "entities": [
+        [
+          82,
+          94,
+          "SKILL"
+        ],
+        [
+          74,
+          77,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "minimum 3 years' experience with familiarity with devops tools (code configuration, arm, bicep or terraform)",
+    {
+      "entities": [
+        [
+          98,
+          107,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "analyzes and recommends the use of alternative sources or materials to reduce costs",
+    {
+      "entities": [
+        [
+          71,
+          77,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "advanced proficiency with spreadsheet and database management tools; advanced ms excel skills including vba programming, macros, and advanced formulas",
+    {
+      "entities": [
+        [
+          81,
+          86,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "experience with ms powerpoint and access and eprocurement systems",
+    {
+      "entities": [
+        [
+          19,
+          29,
+          "SKILL"
+        ],
+        [
+          34,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "who is qualified?5+ years of swift and uikit experiencefamiliar with common ios architecture patterns (mvc, mvvm)comfortable with swift enums, pattern-matching, and protocolsexperience writing unit tests in xcodeskilled in agile methodologies of scrum, kanban, sprints, and ticket sizing",
+    {
+      "entities": [
+        [
+          29,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "familiarity with the latest industry trends, technologies, and best practices in technical support",
+    {
+      "entities": [
+        [
+          81,
+          98,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "certifications: working knowledge of desktop applications including word processing, spreadsheet and database applications",
+    {
+      "entities": [
+        [
+          68,
+          72,
+          "SKILL"
+        ]
+      ]
+    }
+  ]
+]
